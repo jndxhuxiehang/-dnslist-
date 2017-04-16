@@ -1,5 +1,5 @@
 # dnslist文件更新小脚本
-我使用的是项目[cllu/hiwifi-ss](https://github.com/cllu/hiwifi-ss)的ss插件，此项目是针对该插件进行dnslist更新的一个小脚本
+我使用的是项目[qiwihui/hiwifi-ss](https://github.com/qiwihui/hiwifi-ss)的ss插件，此项目是针对该插件进行dnslist更新的一个小脚本
 # 方法（复制下方代码直接运行）
 ```sh
 curl -k -o updatelist.sh https://raw.githubusercontent.com/jndxhuxiehang/-dnslist-/master/updatelist.sh && sh updatelist.sh 
