@@ -22,4 +22,6 @@ sleep 5
 echo " "
 echo " "
 echo "                            **********ss服务重启结束**************"
+echo " "
+echo " "
 echo "                            ********恭喜完成gfwlist更新***********"
