@@ -2,7 +2,7 @@
 我使用的是项目[qiwihui/hiwifi-ss](https://github.com/qiwihui/hiwifi-ss)的ss插件，此项目是针对该插件进行dnslist更新的一个小脚本
 # 方法（复制下方代码直接运行）
 ```sh
-curl -k -o updatelist.sh https://raw.githubusercontent.com/jndxhuxiehang/-dnslist-/master/updatelist.sh && sh updatelist.sh 
+cd /tmp && curl -k -o updatelist.sh https://raw.githubusercontent.com/jndxhuxiehang/-dnslist-/master/updatelist.sh && sh updatelist.sh 
 ```
 # 实现方法：
 项目的dnslist文件位于路由器路径中的/etc/gw-redsocks/gw-shadowsocks中的"gw-shadowsocks.dnslist”
